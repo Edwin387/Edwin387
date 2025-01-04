@@ -1,4 +1,4 @@
-## Hi there My name is Edwin an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+## Hi there I'm Edwin an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
