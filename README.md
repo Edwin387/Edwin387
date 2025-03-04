@@ -1,4 +1,4 @@
-## Hi, I'm Edwin an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+## Hi, I'm Edwin an <a href="https://linkedin.com/in/edwin-mendoza-a1ab03343/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
